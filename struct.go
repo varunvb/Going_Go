@@ -22,5 +22,5 @@ func main () {
 	fmt.Println (sp.age)
 	sp.age = 90
 	fmt.Println (sp.age)
-	
+ 	fmt.Println (s.age)	
 }
